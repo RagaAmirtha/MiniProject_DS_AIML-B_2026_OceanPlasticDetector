@@ -40,14 +40,13 @@ Plastic waste floating in oceans causes severe harm to marine ecosystems and bio
 
 ---
 
-## 🛠️ Tools Used
+## 🛠 Tools & Technologies
+
 - Python
-- TensorFlow / Keras
-- MobileNetV2
-- NumPy
-- Matplotlib
+- TensorFlow
+- Keras
 - Jupyter Notebook
-- GitHub
+- Deep Learning
 
 ---
 
