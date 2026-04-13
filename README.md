@@ -79,6 +79,12 @@ Sample prediction on unseen test image:
 
 ---
 
+## ✅ Conclusion
+
+The project successfully detects plastic waste using deep learning. MobileNetV2 provided the best performance.
+
+---
+
 ## 📂 Folder Structure Explanation
 
 - notebooks: contains all model development files  
