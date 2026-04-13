@@ -40,6 +40,15 @@ Plastic waste floating in oceans causes severe harm to marine ecosystems and bio
 
 ---
 
+## 📊 Model Comparison
+
+CNN Accuracy: 76.05%  
+MobileNetV2 Accuracy: 89.77%  
+
+MobileNetV2 performed better due to transfer learning.
+
+---
+
 ## 🛠 Tools & Technologies
 
 - Python
